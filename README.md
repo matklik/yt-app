@@ -1,6 +1,9 @@
 # YouTube Video App
 
-This simple listing app utilises React Hooks to return user searched videos from the consumed YouTube API. The project was bootstrapped using [Create React App](https://github.com/facebook/create-react-app) and uses [Semantic UI](https://semantic-ui.com) framework library for the layout/styling. 
+This simple listing app utilises React Hooks to return user searched videos from the consumed YouTube API. The project was bootstrapped using [Create React App](https://github.com/facebook/create-react-app) and uses [Semantic UI](https://semantic-ui.com) framework library for the layout/styling.
+
+## Live app URL
+View the YouTube Video App in action [here](https://hungry-shaw-7f1386.netlify.app).
 
 ## Available Scripts
 
