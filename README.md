@@ -1,6 +1,6 @@
 # YouTube Video App
 
-It utilises the use of React Hooks to return videos from the consumed YouTube API. The project was bootstrapped using [Create React App](https://github.com/facebook/create-react-app). 
+This simple listing app utilises React Hooks to return user searched videos from the consumed YouTube API. The project was bootstrapped using [Create React App](https://github.com/facebook/create-react-app) and uses [Semantic UI](https://semantic-ui.com) framework library for the layout/styling. 
 
 ## Available Scripts
 
